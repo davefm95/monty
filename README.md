@@ -1,0 +1,1 @@
+Thos file contains information about the monty project
