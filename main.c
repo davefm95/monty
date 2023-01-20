@@ -1,6 +1,7 @@
 #include "monty.h"
+int item;
 /**
- *main: driver code for montu program
+ *main -  driver code for montu program
  *@argc: number of args to program
  *@argv: array of args
  *Return: 0

@@ -36,4 +36,9 @@ void push(stack_t **head, unsigned int ln);
 void pall(stack_t **stack, unsigned int line_number);
 void codexec(char *opcode, stack_t **stack, unsigned int ln);
 char *token(char *line, int *errno);
+void add(stack_t **head, unsigned int ln);
+void swap(stack_t **head, unsigned int ln);
+void pop(stack_t **head, unsigned int ln);
+void pint(stack_t **head, unsigned int ln);
+
 #endif

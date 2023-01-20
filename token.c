@@ -5,7 +5,6 @@
  *@errno: sets error codes
  *Return: pointer to first token
  */
-int item;
 char *token(char *line, int *errno)
 {
 	char *codes[] = {"push", "pall", "swap", "add", "nop", "pop", NULL};
